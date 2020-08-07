@@ -1,0 +1,30 @@
+html, body{
+    height: 100%;
+    margin-top: 0px; 
+    margin-bottom: 0px; 
+    margin-left: 0px; 
+    margin-right: 0px;
+    padding: 0px 0px 0px 0px;
+}
+.load-screen{
+    z-index: 2;
+    position:fixed;
+    height: 100%;
+    width: 100%;
+    background-color: white ;    
+    
+}
+.center-block{
+    padding: 50px 50px;
+    width: 110px;
+    background-color: white;
+    height: 110px;
+    display: inline-block; 
+    position: relative;
+    top: 250px;
+}
+.dots{
+    position: relative;
+    height: 15px;
+    left:-10px;
+}
