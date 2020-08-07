@@ -5,7 +5,12 @@
             Welcome to heiwa 
         </title>
     </head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Knewave&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Caveat&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./css/front-css.css">
+    <script src="./scripts/scripts.js"></script>
     <body>
         <!-- Loading sreen start -->
         <div class="load-screen">
@@ -17,8 +22,20 @@
                 </div>
             </center>
         </div>
-
-
-        <!-- loading screen start -->
+    <!-- loading screen start -->
+     <!-- NAVIGATION BAR START-->
+     <div class="navbar">
+        <center><p style="letter-spacing:3px;font-family: Knewave;margin: 0px 0px;font-size: 42px;color: white;">Heiwa</p></center>
+    </div>
+    <!-- NAVIAGTION BAR END-->
+    <!-- welcome question nickname-->
+    <div class="question-box" >
+        <h1 id="question" style="font-family:quicksand; font-size:60px;"> Hello Champ! <br> Do you have a Nickname ?</h1>
+        <input id="nickname" type="text" placeholder="Enter your Nickname"><br><br><br>
+        <button class="next" id="next">
+            <img style="height: 80px;" src="./Images/next.png">
+        </button>
+    </div>
+    <!-- wlcome question nickname-->
     </body>
 </html>
