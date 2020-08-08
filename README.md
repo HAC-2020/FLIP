@@ -12,3 +12,5 @@ This is the initiated README for team FLIP, Please edit this as you build your p
 - percentage will be provided as per match
 - After the user select the person he/she will be taken to the personal chat box
 **(the server will not store any type of data) Providing full privacy.**
+## LIVE SITE :
+- https://heiwa.herokuapp.com/
