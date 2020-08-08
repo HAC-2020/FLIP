@@ -4,6 +4,7 @@
   "description": "This is the initiated README for team FLIP, Please edit this as you build your project",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
