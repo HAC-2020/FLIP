@@ -7,4 +7,4 @@ Mental health includes
 *It affects how we think,feel and act.It also helps determine how we handle stress,relate to others,and make choices.
 *Mental health is important at every stage of life, from childhood and adolescence through adulthood.over the course of your life, if you experience mental health problems, your thinking, mood, behaviour could be affected.
 
-**Many factors contribute to mental health problems,including**:biological factors, such as trauma or abuse Family history of mental health problems.
+**Many factors contribute to mental health problems, including**:biological factors, such as trauma or abuse Family history of mental health problems.
