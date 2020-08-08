@@ -11,7 +11,7 @@ $(document).ready(function(){
         $(".question-box2").delay(300).fadeIn(250);
         }); 
 });
-const socket = io('http://localhost:3000/');
+const socket = io();
         socket.on('ack',(data)=>{
         $(".load-screen").delay(200).fadeOut(500);
         $(".container").fadeIn(200);
