@@ -14,3 +14,4 @@ This is the initiated README for team FLIP, Please edit this as you build your p
 **(the server will not store any type of data) Providing full privacy.**
 ## LIVE SITE :
 - https://heiwa.herokuapp.com/
+( NOTE: as there are no active users you won't find a match.)
